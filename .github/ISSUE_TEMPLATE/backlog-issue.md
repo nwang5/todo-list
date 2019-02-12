@@ -1,6 +1,6 @@
 ---
 name: Backlog Issue
-about: Normal issue for inclusion in backlog.
+about: Backlog issue including completion criteria
 title: ''
 labels: ''
 assignees: ''
@@ -8,3 +8,4 @@ assignees: ''
 ---
 
 Complete when...
+ [ ]
